@@ -22,7 +22,7 @@ github_username: username
 minimal_mistakes_skin: mint
 search: true
 header:
-  image:/assets/images/cover.jpg
+  image: /assets/images/cover.jpg
 
 # Build settings
 markdown: kramdown
