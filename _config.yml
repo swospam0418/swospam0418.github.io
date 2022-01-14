@@ -21,6 +21,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: mint
 search: true
+repository: swospam0418/swospam0418.github.io
 
 ---
 header:
@@ -67,7 +68,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://swospam0418.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
