@@ -1,14 +1,13 @@
 ---
-title: "I Love the Smell of Napalm in the Morning"
+title: "The Beatles (披頭四) --- Let It Be (順其自然)"
 date: 2022-01-12T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - TheBeatles
+  - LetItBe
 ---
-
-When I was here, I wanted to be there. When I was there, all I want is getting back into the jungle
+我個人常戲稱，Let It Be, Hey Jude和Yesterday是披頭四的「三本柱」
 
 ```ruby
 def print_hi(name)
