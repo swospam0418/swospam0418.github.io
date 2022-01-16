@@ -2,14 +2,14 @@
 layout: single
 title: "The Beatles (披頭四) --- Let It Be (順其自然)"
 date: 2022-01-12T15:34:30-04:00
-image: /assets/images/cover.jpg
+header:
+  image: /assets/images/unsplash-image-1.jpg
 categories:
   - blog
 tags:
   - TheBeatles
   - LetItBe
 ---
-![](){{page.image | relative_url}})
 
 我個人常戲稱，Let It Be, Hey Jude和Yesterday是披頭四的「三本柱」
 
