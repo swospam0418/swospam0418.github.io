@@ -118,6 +118,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+    header:
+      image: /assets/images/cover.jpg
 
 category_archive:
   type: liquid
