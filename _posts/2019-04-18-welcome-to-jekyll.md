@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "The Beatles (披頭四) --- Let It Be (順其自然)"
 date: 2022-01-12T15:34:30-04:00
 image: /assets/images/cover.jpg
