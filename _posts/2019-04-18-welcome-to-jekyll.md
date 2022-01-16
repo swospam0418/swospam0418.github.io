@@ -8,6 +8,8 @@ tags:
   - TheBeatles
   - LetItBe
 ---
+![](){{page.image | relative_url}})
+
 我個人常戲稱，Let It Be, Hey Jude和Yesterday是披頭四的「三本柱」
 
 ```ruby
