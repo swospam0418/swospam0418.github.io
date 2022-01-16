@@ -23,9 +23,6 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: mint
 search: true
-header:
-  image: /assets/images/cover.jpg
-
 
 
 # Build settings
@@ -60,6 +57,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+header:
+  image: /assets/images/cover.jpg
 
 author:
   name   : "Wei-Lun Chen"
