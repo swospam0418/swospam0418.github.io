@@ -1,4 +1,4 @@
 ---
-permalink: /me/
+permalink: /me.html
 title: "About Me"
 ---
