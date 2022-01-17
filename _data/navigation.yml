@@ -6,6 +6,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "About Me"
-    url: /about-me/
+    url: /me/
   - title: "Portfolio"
     url: /portfolio/
