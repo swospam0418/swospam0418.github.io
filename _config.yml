@@ -21,8 +21,7 @@ title: This Is Wei-Lun Chen
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Material Scientist, Semiconductor Researcher, and Domain-based Data Scientist
-twitter_username: username
-github_username: username
+github_username: swospam0418
 minimal_mistakes_skin: mint
 search: true
 
@@ -71,9 +70,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://swospam0418.pixnet.net/blog"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/swospam0418"
